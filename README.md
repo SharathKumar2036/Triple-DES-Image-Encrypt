@@ -1,6 +1,8 @@
 # Triple-DES-Image-Encrypt
 
-Abstract: In today’s world almost all digital services like internet communication,
+Abstract: 
+
+In today’s world almost all digital services like internet communication,
 medical and military imaging systems, multimedia system needs a high level
 and Protected security. There is a need for security level in order to safely store
 and transmit digital images containing critical information. This is because of
